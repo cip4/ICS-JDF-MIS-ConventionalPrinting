@@ -5,7 +5,7 @@ name: Snapshot Build
 # The VERSION is the main release number i.e. 1.7 or 2.1
 env:
   BUILD_NAME:           ICS-JDF-MIS-CP
-  DOCUMENT_VERSION:     '1.7'
+  DOCUMENT_VERSION:     '1.8'
   DOCUMENT_COVER_TITLE: MIS to Conventional Printing ICS
   CONFIG_FILE:          Build\ICS_JDF_MIS_ConventionalPrinting.ini
   CONFLUENCE_ID:        '1560313992'
